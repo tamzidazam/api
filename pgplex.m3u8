@@ -2,75 +2,75 @@
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnbangla.jpg" group-title="Bangla", ATN Bangla
 http://pgplex.net:8080/ATNBangla/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/atnnews.jpg" group-title="Bangla", ATN News
-http://pgplex.net:8080/ATNNews/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/ATNNews/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nagorik.jpg" group-title="Bangla", Nagorik
-http://pgplex.net:8080/NagorikTV/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/NagorikTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/asiantv.jpg" group-title="Bangla", Asian TV
-http://pgplex.net:8080/AsianTV/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/AsianTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglatv.jpg" group-title="Bangla", Bangla TV
-http://pgplex.net:8080/BanglaTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/BanglaTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/banglavision.jpg" group-title="Bangla", Bangla Vision
 http://pgplex.net:8080/BanglaVision/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channel24.jpg" group-title="Bangla", Channel 24
-http://pgplex.net:8080/Channel24/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/Channel24/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/channeli.jpg" group-title="Bangla", Channel I
-http://pgplex.net:8080/ChannelI/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/ChannelI/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/dbc.jpg" group-title="Bangla", DBC News
-http://pgplex.net:8080/DBCNews/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/DBCNews/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/c9.png" group-title="Bangla", Channel 9
-http://pgplex.net:8080/Channel9/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/Channel9/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/deeptotv.jpg" group-title="Bangla", Deepto TV
-http://pgplex.net:8080/DeeptoTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/DeeptoTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekattortv.jpg" group-title="Bangla", Ekattor TV
-http://pgplex.net:8080/EkattorTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/EkattorTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ekushey.jpg" group-title="Bangla", Ekushey TV
-http://pgplex.net:8080/EkusheyTv/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/EkusheyTv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/tsports.jpg" group-title="Sports", T Sports HD
-http://pgplex.net:8080/TSportsHD/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/TSportsHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/gazi.jpg" group-title="Bangla", Gazi Tv HD
-http://pgplex.net:8080/GaziTVHD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/GaziTVHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/independenttv.jpg" group-title="Bangla", Independent TV
-http://pgplex.net:8080/IndependentTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/IndependentTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jamunatv.jpg" group-title="Bangla", Jamuna TV
-http://pgplex.net:8080/JamunaTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/JamunaTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/mytv.jpg" group-title="Bangla", My TV
-http://pgplex.net:8080/MyTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/MyTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/news24.jpg" group-title="Bangla", News 24
-http://pgplex.net:8080/News24/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/News24/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/rtv.jpg" group-title="Bangla", RTV
-http://pgplex.net:8080/RTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/RTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/somoy.jpg" group-title="Bangla", Somoy
-http://pgplex.net:8080/SomoyTv/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/SomoyTv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Hindi", Colors
-http://pgplex.net:8080/GaanBangla/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/GaanBangla/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nandan.jpg" group-title="Bangla", Nandan TV
-http://pgplex.net:8080/NandanTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/NandanTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorsbangla.jpg" group-title="Indian Bangla", Colors Bangla
-http://pgplex.net:8080/ColorsBangla/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/ColorsBangla/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/colorshd.jpg" group-title="Hindi", Colors HD
-http://pgplex.net:8080/ColorsHD/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/ColorsHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Hindi", India Today
-http://pgplex.net:8080/IndiaToday/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/IndiaToday/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Hindi", NDTV
-http://pgplex.net:8080/NDTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/NDTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/geosuper.jpg" group-title="Urdu", GEO News
-http://pgplex.net:8080/GeoNews/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/GeoNews/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="English", Shout Factory
-http://pgplex.net:8080/ShoutFactoryTV/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/ShoutFactoryTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="English", RedBull TV
-http://pgplex.net:8080/RedBullTV/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/RedBullTV/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="English", CGTN
 http://pgplex.net:8080/CGTN/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="English", Russia Today
-http://pgplex.net:8080/RussiaToday/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/RussiaToday/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/nhk.jpg" group-title="English", NHK World
-http://pgplex.net:8080/NHKWorld/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/NHKWorld/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/bbcnews.jpg" group-title="English", BBC News
-http://pgplex.net:8080/BBCNews/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/BBCNews/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="English", Wild Earth
-http://pgplex.net:8080/WildEarth/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/WildEarth/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/aljazeera.jpg" group-title="English", AL Jazeera
-http://pgplex.net:8080/Aljazeera/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/Aljazeera/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/9xm.jpg" group-title="Hindi", 9XM
 http://pgplex.net:8080/9XM/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/.jpg" group-title="Hindi", Boogle Bollywood
@@ -78,7 +78,7 @@ http://pgplex.net:8080/9XM/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sonytv.jpg" group-title="Hindi", Sony
 http://pgplex.net:8080/SonyTVHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/sports18.jpg" group-title="Sports", Sports 18
-http://pgplex.net:8080/Sports18HD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/Sports18HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten1hd.jpg" group-title="Sports", Sony Ten 1
 http://pgplex.net:8080/SonyTen1HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten2hd.jpg" group-title="Sports", Sony Ten 2
@@ -86,15 +86,15 @@ http://pgplex.net:8080/SonyTen2HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/ten3hd.jpg" group-title="Sports", Sony Ten 3
 http://pgplex.net:8080/SonyTen3HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports1.jpg" group-title="Sports", Star Sports 1 HD
-http://pgplex.net:8080/StarSports1HD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/StarSports1HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starsports2.jpg" group-title="Sports", Star Sports 2 HD
-http://pgplex.net:8080/StarSports2HD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/StarSports2HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/starjalsha.jpg" group-title="Indian Bangla", Star Jalsha
 http://pgplex.net:8080/StarJalshaHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/jalshamovies.jpg" group-title="Indian Bangla", Jalsha Movies
-http://pgplex.net:8080/StarJalshaMovies/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/StarJalshaMovies/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/andpictureshd.jpg" group-title="Hindi", And Pictures
-http://pgplex.net:8080/AndPicturesHD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/AndPicturesHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btsports1.jpg" group-title="Sports", AD Sports 1
 http://pgplex.net:8080/ADSPORTS1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/btsports2.jpg" group-title="Sports", AD Sports 2
@@ -106,6 +106,6 @@ http://pgplex.net:8080/ZeeBanglaHD/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeebanglacinema.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeeacion.jpg" group-title="Hindi", Zee Action
-http://pgplex.net:8080/ZeeAction/tracks-a1/index.fmp4.m3u8
+http://pgplex.net:8080/ZeeAction/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tamzidazam/dotinternet-iptv/raw/main/tv-logo/zeecinemahd.jpg" group-title="Hindi", Zee Cinema
-http://pgplex.net:8080/ZeeCinemaHD/tracks-v1/index.fmp4.m3u8
+http://pgplex.net:8080/ZeeCinemaHD/index.fmp4.m3u8
