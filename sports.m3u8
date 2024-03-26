@@ -1,52 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Sports HD
-https://drive.google.com/uc?export=download&id=19dpmNfr1FleNDPFMdYql2HrwXDt632cp
-#EXTINF:-1,[TH]True-PremierLeague 1HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
-#EXTINF:-1,[TH]True-PremierLeague 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
-#EXTINF:-1,[TH]True-PremierLeague 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/102
-#EXTINF:-1,[TH]True-PremierLeague 4HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/101
-#EXTINF:-1,[TH]TruePremier 5HD 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/1
-#EXTINF:-1,[TH]True-SPORT HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/96
-#EXTINF:-1,[TH]True-SPORT 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/97
-#EXTINF:-1,[TH]True-SPORT 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/98
-#EXTINF:-1,[TH]True-SPORT 5SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/99
-#EXTINF:-1,[TH]True-SPORT 7SD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/100
-#EXTINF:-1,EUROSPORT 1HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/162
-#EXTINF:-1,EUROSport 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/110
-#EXTINF:-1,[Astro]ARENA HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/149
-#EXTINF:-1,[Astro]ARENA 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/150
-#EXTINF:-1,[Astro]W SPORTS
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/142
-#EXTINF:-1, [INDiE]SONY SPORTS 1HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/122
-#EXTINF:-1,[INDiE]SONY SPORTS 2HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/123
-#EXTINF:-1,[INDiE]SONY SPORTS 3HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/124
-#EXTINF:-1,[INDiE]SONY SPORTS 4HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/125
-#EXTINF:-1,[INDiE]SONY SPORTS 5HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/126
-#EXTINF:-1, FS1 HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/127
-#EXTINF:-1, FS2 HD
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/128
-#EXTINF:-1 ,Sky Cricket
-https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1 ,G TV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 ,T Sports
@@ -69,12 +21,6 @@ http://sonyiptv.net:8080/waqasin/002810/247171
 http://server.sibfungold.info:8080/JohnWick1971/9szv5TfjZnXQUZ6nmgU4d4ZY/490
 #EXTINF:-1 ,IPL 110
 http://sonyiptv.net:8080/waqasin/002810/247168
-#EXTINF:-1 ,SUPER SPORTS CRICKET
-https://catowrap.live/mrgamingsscric.m3u8
-#EXTINF:-1 ,Astro Arena_(3)
-http://iptvtree.net:8080/F14995/a84c0963/157485
-#EXTINF:-1 ,beIN Sports_(3)
-http://iptvtree.net:8080/F14995/a84c0963/157561
 #EXTINF:-1 ,Sony TEN 3 HD
 http://startv365.com:80/9794783213/6955630461/378745
 #EXTINF:-1 ,STAR SPORTS →  1 HD
@@ -87,98 +33,6 @@ http://startv365.com:80/9794783213/6955630461/400159568
 http://startv365.com:80/9794783213/6955630461/378739
 #EXTINF:-1 ,STAR SPORTS SELECT  → 2  HD
 http://startv365.com:80/9794783213/6955630461/376465
-#EXTINF:-1 ,18 SPORTS HD
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1057243&extension=ts
-#EXTINF:-1 ,TEN SPORTS
-http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
-#EXTINF:-1 ,A SPORTS
-http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:61:4F:5D&stream=1116499&extension=ts
-#EXTINF:-1 ,DD SPORTS
-http://uhd3.one/play/live.php?mac=00:1A:79:19:06:50&stream=155983&extension=ts&play
-#EXTINF:-1 ,WILLOW EXTRA
-http://195.26.87.217/live.ts?channelId=287&uid=3453&deviceMac=00:1A:79:01:04:AC
-#EXTINF:-1 ,SKY SPORTS CRICKET HD
-https://sportsleading.online/live/stream_f1.m3u8
-#EXTINF:-1 ,Variety 1
-https://mlb.mrgamingstreams.com/variety1.m3u8
-#EXTINF:-1 ,TNT SPORTS 2
-https://catowrap.live/mrgamingbtsport2.m3u8
-#EXTINF:-1 ,TNT SPORTS 3
-https://catowrap.live/mrgamingbtsport3.m3u8
-#EXTINF:-1 ,ASTRO SUPER SPORTS 2
-http://mag.trexlive.me:80/Michael88/Michael88/1111033
-#EXTINF:-1 ,ASTRO SUPER SPORTS 3
-http://mag.trexlive.me:80/Michael88/Michael88/1111032
-#EXTINF:-1 ,ASTRO SUPER SPORTS 4
-http://mag.trexlive.me:80/Michael88/Michael88/1111031
-#EXTINF:-1 ,Super Football PSL
-https://sportsleading.online/live/stream_6.m3u8
-#EXTINF:-1 ,SuperSport Premier League
-http://202.21.104.6:88/sps-plus/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 02
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 05
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 06
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴  SPORTS Tv 2
-https://edge1.laotv.la/live/PPTVHD/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 01
-https://edge2.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 02
-http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴 10
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴  14
-https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 ,𝙻𝙸𝚅𝙴  18
-http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 ,Sony Sport5
-http://103.120.172.74:5300
-#EXTINF:-1 ,Star Sports Select 1
-http://103.120.172.74:1030
-#EXTINF:-1 ,SKYSPORT TENNIS
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395395.m3u8
-#EXTINF:-1 ,SKYSPORT PREMIERLEAGUE
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395394.m3u8
-#EXTINF:-1 ,SKYSPORT GOLF
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395392.m3u8
-#EXTINF:-1 ,SKYSPORT F1
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/642166.m3u8
-#EXTINF:-1 ,SKYSPORT 1 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7031.m3u8
-#EXTINF:-1 ,SKYSPORT 2 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7032.m3u8
-#EXTINF:-1 ,SKYSPORT 4 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/397098.m3u8
-#EXTINF:-1 ,SKYSPORT 5 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7035.m3u8
-#EXTINF:-1 ,SKYSPORT 6 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7036.m3u8
-#EXTINF:-1 ,SKYSPORT 7 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395384.m3u8
-#EXTINF:-1 ,SKYSPORT 10 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7040.m3u8
-#EXTINF:-1 ,SKYSPORT 11 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7041.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 9 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/301815.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 8 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7052.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 6 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/301824.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 5 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395391.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 4 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395390.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 3 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/301928.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 2 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/301820.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 10 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/395387.m3u8
-#EXTINF:-1 ,SKYSPORT BUNDESLIGA 1 (MATCH TIME)
-http://landiptv.vip:2095/Whts1426/CGEEsAwUzY/7044.m3u8
 #EXTINF:-1,Sony Ten 1
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-1-live
 #EXTINF:-1,Sony Ten 2
